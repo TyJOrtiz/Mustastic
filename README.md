@@ -17,6 +17,7 @@ NewMusicProject (will be renamed) -  a new music player for Windows 10
 This is the very first beta; so there are a few bugs:
 
 * If you are using a High-Contrast theme the app will fail at startup. I will provide a fix in the next beta.
+* Accessibilty features are very much lacking. Will be addressed in future betas.
 * Pressing F1 displays an empty Grid. will be addressed in later beta.
 * Windows 10X has an issue with thumbnails so it won't display song/album thumbnails.
 * the "Add To" button in the Albums page does not do anything.
