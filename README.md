@@ -1,6 +1,14 @@
 # NewMusicProject
 NewMusicProject (will be renamed) -  a new music player for Windows 10
 
+[Home page](https://github.com/TyJOrtiz/NewMusicProject/blob/main/Screenshots/Screenshot%20(43).png?raw=true)
+
+[album view](https://github.com/TyJOrtiz/NewMusicProject/blob/main/Screenshots/Screenshot%20(45).png?raw=true)
+
+[compact view](https://github.com/TyJOrtiz/NewMusicProject/blob/main/Screenshots/Screenshot%20(46).png?raw=true)
+
+[now playing view](https://github.com/TyJOrtiz/NewMusicProject/blob/main/Screenshots/Screenshot%20(47).png?raw=true)
+
 ## Features
 
 * Play music in your music library
