@@ -1,4 +1,30 @@
-[
-  {
-  }
-]
+{
+  "Version": "42",
+  "Features": 
+  [
+    {
+      "Feature":
+      {
+        "Name": "Rename Playlists",
+        "Description": "You can rename playlists (local ones only)",
+        "Image": "https://raw.githubusercontent.com/TyJOrtiz/Mustastic/main/Images/renameplaylist.png"
+      }
+    },
+    {
+      "Feature":
+      {
+        "Name": "Edit Playlist tracks",
+        "Description": "You can now rearrange playlist order (and remove tracks)",
+        "Image": "https://raw.githubusercontent.com/TyJOrtiz/Mustastic/main/Images/reorderplaylistorder.png"
+      }
+    },
+    {
+      "Feature":
+      {
+        "Name": "Easier navigating through the Artist list",
+        "Description": "Artists are now grouped by name to make it easier to go through long lists",
+        "Image": "https://raw.githubusercontent.com/TyJOrtiz/Mustastic/main/Images/artistsemanticzoom.png"
+      }
+    }
+  ]
+}
