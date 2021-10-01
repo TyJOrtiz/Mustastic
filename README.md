@@ -26,7 +26,7 @@ Mustastic -  a new music player for Windows 10
 * Pressing F1 displays an empty Grid. will be addressed in later beta.
 * Windows 10X has an issue with thumbnails so it won't display song/album thumbnails.
 * some layout issues need to be fixed.
-* The app only checks for new music at startup and if the "Refresh Library" button is pressed in the More menu on the sidebar. This is due to limitations in the Windows.Storage APIs. Also the app cant track files that have been delleted.
+* The app only checks for new music at startup and if the "Refresh Library" button is pressed in the More menu on the sidebar. This is due to limitations in the Windows.Storage APIs. Also the app can't track files that have been deleted.
 * Music sometimes does not play automatically. Press the Play/Pause button to start playing the music.
 
 ## Roadmap
