@@ -1,7 +1,7 @@
 # Mustastic
 Mustastic -  a new music player for Windows 10
 
-[![Get Mustastic](https://github.com/TyJOrtiz/Mustastic/blob/main/Images/English_L%20(1).png?raw=true)](https://www.microsoft.com/en-us/p/mustastic/9n7ntcfxsfm1)
+[![Get Mustastic](https://github.com/TyJOrtiz/Mustastic/blob/main/Images/English_L%20(1).png?raw=trues=200)](https://www.microsoft.com/en-us/p/mustastic/9n7ntcfxsfm1)
 
 ![Home page](https://github.com/TyJOrtiz/NewMusicProject/blob/main/Screenshots/Screenshot%20(43).png?raw=true)
 
