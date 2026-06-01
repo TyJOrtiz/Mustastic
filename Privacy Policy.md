@@ -1,45 +1,63 @@
-# Privacy Statement
+Mustastic Privacy Statement
 
-## Introduction
+Last Updated: May 31, 2026
 
-Mustastic ("the App") is committed to protecting your privacy. This Privacy Statement explains how the App collects, uses, and discloses information when you use the App. By using the App, you agree to the collection and use of information in accordance with this policy.
+Overview
 
-## Information Collection and Use
+Mustastic is a music player application. Your privacy is important, and the app is designed to collect as little information as possible. The developer of Mustastic does not collect, store, sell, or share your personal information.
 
-The App uses the MusicBrainz database to look up information about music tracks stored on your computer and CDs that you may play in the App. This includes, but is not limited to, artist IDs, images, and metadata. The information gathered from MusicBrainz is displayed within the App to enhance your user experience by providing detailed information about your music collection.
+Information Stored on Your Device
 
-With your explicit consent, the App also integrates with the Last.fm API and the Spotify API for additional functionality:
-- **Last.fm Scrobbling**: The App uses the Last.fm API to "scrobble" tracks that you play in the App to your personal Last.fm account. Scrobbling allows you to track your listening habits and share them with the Last.fm community.
-- **Spotify Playlists**: The App uses the Spotify API to display your Spotify playlists within the App. This feature requires your explicit consent and authorization to access your Spotify account.
+Mustastic may store application settings, library information, playback history, and other preferences locally on your device to provide its functionality. This information remains on your device and is not transmitted to the developer.
 
-## How We Use Your Information
+Last.fm Integration
 
-The App accesses various APIs to retrieve the following types of information:
-- **MusicBrainz**:
-  - **Artist IDs**: Unique identifiers for artists to provide accurate artist information.
-  - **Images**: Artist images to visually enhance the user interface.
-  - **Metadata**: Detailed information about tracks, albums, and artists, such as album titles, release dates, genres, and track lengths.
-- **Last.fm**:
-  - **Scrobbling Data**: Tracks played in the App are sent to your Last.fm account to record your listening history.
-- **Spotify**:
-  - **Playlist Data**: Information about your Spotify playlists is retrieved and displayed within the App.
+Mustastic optionally supports Last.fm scrobbling. If you choose to connect your Last.fm account:
 
-## Data Storage
+* You will sign in directly with Last.fm.
+* Your Last.fm account credentials are not provided to or stored by the developer of Mustastic.
+* Information about the music you play, including track title, artist name, and album title, may be sent directly to Last.fm for scrobbling purposes.
+* The collection, storage, and use of this information are governed by Last.fm’s privacy policies and terms.
 
-The information retrieved from MusicBrainz, Last.fm, and Spotify is temporarily stored on your device to ensure efficient operation of the App. This data is not transmitted or stored on external servers or shared with third parties.
+Use of Last.fm integration is entirely optional.
 
-## User Consent
+MusicBrainz Integration
 
-The App requires your explicit consent to use the Last.fm and Spotify APIs. You will be prompted to authorize access to your accounts before any data is retrieved or shared. You can revoke this access at any time through the respective service's settings.
+Mustastic optionally supports music identification and metadata lookup through MusicBrainz and related services.
 
-## Security
+When using these features:
 
-The App takes reasonable measures to protect the information retrieved from MusicBrainz, Last.fm, and Spotify, and stored on your device. However, please be aware that no method of electronic storage or transmission over the internet is 100% secure, and we cannot guarantee absolute security.
+* Information derived from audio files, such as audio fingerprints and existing metadata, may be transmitted to MusicBrainz or associated services to identify recordings and retrieve music information.
+* No personally identifying information is intentionally transmitted as part of these requests.
+* Requests are made using an application-specific contact email address as part of the service user agent requirements.
+* The developer of Mustastic does not receive, store, or have access to the information sent to MusicBrainz or related services.
 
-## Changes to This Privacy Statement
+Use of music identification and metadata lookup features is entirely optional.
 
-We may update our Privacy Statement from time to time. We will notify you of any changes by posting the new Privacy Statement within the App. You are advised to review this Privacy Statement periodically for any changes. Changes to this Privacy Statement are effective when they are posted within the App.
+Data Collection by the Developer
 
-## Contact Us
+The developer of Mustastic does not:
 
-If you have any questions about this Privacy Statement, please contact us at tyler.j.ortiz@outlook.com.
+* Collect personal information.
+* Collect usage analytics.
+* Collect advertising identifiers.
+* Sell user data.
+* Share user data with third parties.
+
+Third-Party Services
+
+If you choose to use optional integrations, information may be transmitted directly to the following third-party services:
+
+* Last.fm
+* MusicBrainz
+* AcoustID (if used as part of audio fingerprint lookups)
+
+These services operate independently and are governed by their own privacy policies and terms of service.
+
+Changes to This Privacy Statement
+
+This Privacy Statement may be updated from time to time to reflect changes in the application or applicable requirements. Updated versions will be made available through the app or its distribution channels.
+
+Contact
+
+If you have questions about this Privacy Statement or Mustastic, please contact the developer through the application’s support channels.
